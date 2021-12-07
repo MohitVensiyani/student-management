@@ -1,0 +1,33 @@
+.nav-link:hover {
+
+	background-color: grey;
+}
+.display-4 {
+
+	font-weight: bold;
+}
+.card-body-icon {
+	position: absolute;
+		z-index: 0;
+		top: 25px;
+		right: 4px;
+		opacity: 0.4;
+		font-size: 90px;  
+}
+.sidebar{
+	
+}
+.button {
+	margin-left: 440px;
+	
+}
+
+.button .btn
+{
+	width: 150px
+}
+/* .anyClass {
+  height:500px;
+  overflow:  
+  auto;
+} */

@@ -1,0 +1,329 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:sans-serif;
+    color: rgba(17, 14, 14, 0.89);
+}
+.container-center1{
+    margin: 1% auto ;
+    width: 900px;
+    border: 2px solid whitesmoke;
+    padding-bottom: 80px !important;
+    box-shadow: 0px 0px 10px 3px rgba(228, 217, 217, 0.7);
+
+}
+h4{
+    font-size: 20px;
+    font-weight: 800;
+    font-family: 'Libre Baskerville', serif;
+}
+h5{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.container-center1 table{
+    width: 830px;
+    border: 1px solid #000;
+}
+.table th{
+    padding-bottom: 1px !important;
+    border: 1px solid #000 !important;
+}
+.table tr td{
+    border: 1px solid #000;
+    color: rgb(26, 23, 23) !important;
+}
+.table td{
+    padding-bottom: 1px !important;
+
+}
+
+img{
+    width: 200px;
+    height: 150px;
+}
+.bgcolour{
+    background:rgb(247, 242, 242) !important ;
+
+}
+.border{
+    border-bottom: 4px solid rgb(252, 61, 92) !important;
+    width: 840px !important;
+}
+.application label{
+    font-weight: 600;
+    font-size: 16px;
+    color: #000;
+}
+.application input{
+    width: 700px !important;
+    margin-left: 10px !important;
+    border-bottom: 1px solid #000 !important;
+    border: none;
+    outline: none !important;
+   margin-top: -7px;
+   color: rgb(32, 24, 24) !important;
+}
+
+/*----- form 2-------  styling*/
+
+.container-center2{
+    margin: 1% auto ;
+    width: 900px;
+    border: 4px solid whitesmoke;
+    padding-bottom: 80px !important;
+    box-shadow: 0px 0px 10px 3px rgba(247, 236, 236, 0.7);
+
+
+}
+
+.application1 label{
+    font-weight: 600;
+    font-size: 16px;
+    color: #000;
+}
+
+
+/*----- form 3-------  styling*/
+
+
+.container-center3{
+    margin: 1% auto ;
+    width: 900px;
+    border: 4px solid whitesmoke;
+    padding-bottom: 100px !important;
+    box-shadow: 0px 0px 10px 3px rgba(247, 236, 236, 0.7);
+
+
+}
+
+.container-center3 table{
+    width: 800px;
+    border: 1px solid #000;
+}
+.table th{
+    padding-bottom: 1px !important;
+    border: 1px solid #000 !important;
+}
+.table tr td{
+    border: 1px solid #000;
+}
+.container-center3 h5{
+    font-size: 17px;
+    font-weight: 700;
+}
+.application2 label{
+    font-weight: 600;
+    font-size: 16px;
+    color: #000;
+}
+
+
+/*----- form 4-------  styling*/
+
+
+
+
+.container-center4{
+    margin: 1% auto ;
+    width: 900px;
+    border: 4px solid whitesmoke;
+    padding-bottom: 100px !important;
+    box-shadow: 0px 0px 10px 3px rgba(247, 236, 236, 0.7);
+
+
+}
+
+.container-center4 h5{
+    font-size: 16px;
+    font-weight: 700;
+}
+.container-center4 p{
+    font-size: 15px !important;
+    color: #000;
+    margin-bottom: 0px !important;
+    margin-left: 20px;
+}
+
+.container-center4 table{
+    width: 830px;
+    border: 1px solid #000;
+}
+.container-center4 th{
+    font-size: 13px;
+    font-weight:800;
+    padding-top: 5px !important;
+}
+
+.container-center4 td{
+    font-size: 13px;
+    font-weight:600;
+}
+
+
+/*----- form 5-------  styling*/
+
+
+
+
+.container-center5{
+    margin: 1% auto ;
+    width: 900px;
+    border: 4px solid whitesmoke;
+    padding-bottom: 100px !important;
+    box-shadow: 0px 0px 10px 3px rgba(247, 236, 236, 0.7);
+
+
+}
+
+.container-center5 h5{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.container-center5 p{
+    font-size: 15px !important;
+    color: #000;
+    margin-bottom: 0px !important;
+    margin-left: 30px;
+}
+
+.container-center5 table{
+    width: 830px;
+    border: 1px solid #000;
+}
+
+.container-center5 th{
+    font-size: 13px;
+    font-weight:800;
+    padding-top: 7px !important;
+}
+
+.container-center5 td{
+    font-size: 13px;
+    font-weight:600;
+}
+.application3 label{
+    font-weight: 600;
+    font-size: 16px;
+    color: #000;
+}
+
+
+
+
+
+/*----- form 6-------  styling*/
+
+
+
+.container-center6{
+    margin: 1% auto ;
+    width: 900px;
+    border: 4px solid whitesmoke;
+    padding-bottom: 100px !important;
+    box-shadow: 0px 0px 10px 3px rgba(247, 236, 236, 0.7);
+
+
+}
+
+.container-center6 h5{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.container-center6 p{
+    font-size: 15px !important;
+    color: #000;
+    margin-bottom: 0px !important;
+    margin-left: 20px;
+}
+
+.container-center6 table{
+    width: 750px;
+    border: 2px solid #000;
+}
+
+.container-center6 th{
+    font-size: 13px;
+    font-weight:800;
+    border: none !important;
+   
+  
+   
+}
+.container-center6 tr{
+    border-bottom: 2px solid #000 !important;
+   
+}
+
+.container-center6 td{
+    font-size: 13px;
+    font-weight:600;
+    border: none !important;
+    border-right: 2px solid #000 !important;
+    
+}
+
+
+
+/*----- form 7-------  styling*/
+
+.container-center7{
+    margin: 1% auto ;
+    width: 900px;
+    border: 4px solid whitesmoke;
+    padding-bottom: 100px !important;
+    box-shadow: 0px 0px 10px 3px rgba(247, 236, 236, 0.7);
+
+
+}
+
+.container-center7 h5{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.container-center7 table{
+    width: 750px;
+    border: 1px solid #000;
+}
+
+
+/*----- form 8-------  styling*/
+
+
+.container-center8{
+    margin: 1% auto ;
+    width: 900px;
+    border: 4px solid whitesmoke;
+    padding-bottom: 100px !important;
+    box-shadow: 0px 0px 10px 3px rgba(247, 236, 236, 0.7);
+
+
+}
+
+
+.container-center8 h5{
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.container-center8 p{
+    font-size: 13px !important; 
+    color: rgba(14, 12, 12, 0.897);
+    margin-bottom: 0px !important;
+}
+
+.application label{
+    font-weight: 600;
+    font-size: 16px;
+    color: #000;
+}
+
+
+
+
+
